@@ -445,7 +445,7 @@ background-color: #212121;
 }
 
 /* banner */
-.main-top{position:fixed;}
+.main-top{position:relative;}
 .headder-top {
     position: absolute;
     width: 100%;
