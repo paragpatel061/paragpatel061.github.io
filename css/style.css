@@ -445,7 +445,7 @@ background-color: #212121;
 }
 
 /* banner */
-.main-top{position:static;}
+.main-top{position:relative;}
 .headder-top {
     position: absolute;
     width: 100%;
@@ -512,6 +512,7 @@ background: #000;
 .about-two-grids h6,.team-zofie-grids h6  {
     font-size: 30px;
     color: #e04067;
+    color: #f8a640;
     letter-spacing: 2px;
 }
 .about-imgs-txt img, .gallery-grids img, .team-zofie-grids img {
@@ -978,7 +979,13 @@ h3.title {
 .contact-grided-right{text-align:center;}
 .footer-icons ul li a span {
     margin: 0px 18px;
-	}
+    }
+
+    .main-top {
+
+        background-position: 0 45px !important;
+        background-size: contain;
+    }
 }
 @media(max-width:736px){
 .footer-zofie-head h5 {
