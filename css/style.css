@@ -447,7 +447,7 @@ background-color: #212121;
 /* banner */
 .main-top{position:relative;}
 .headder-top {
-    position: absolute;
+    position: fixed;
     width: 100%;
     z-index: 99;
     background:#f8a640;
