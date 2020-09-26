@@ -460,7 +460,7 @@ background: url(../images/b3.jpg) no-repeat 0px 0px;
 -moz-background-size: cover;
 -o-background-size: cover;
 -ms-background-size: cover;
-min-height: 800px;
+min-height: 500px;
 }
 .slider-info h5 {
     font-size: 2.5em;
